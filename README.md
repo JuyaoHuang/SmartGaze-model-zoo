@@ -10,8 +10,6 @@ Pytorch0.4.1 codes for InsightFace
 
 ## Notes
 
-## Notes
-
 The environment configuration for this project is **extremely outdated**. Using the original project code will result in numerous errors. I have adopted modern frameworks and training methodologies to effectively replace the original training and evaluation code.
 
 If your environment corresponds to:
