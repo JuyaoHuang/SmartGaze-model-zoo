@@ -118,7 +118,7 @@ def load_calibration_data(dataset_path, label_file, max_images=50):
 
 
 def convert_onnx_to_rknn(onnx_path, rknn_path, dataset_path, label_file,
-                         do_quantization=True, max_calib_images=50):
+                         do_quantization=False, max_calib_images=50):
     """
     将ONNX模型转换为RKNN模型
 
